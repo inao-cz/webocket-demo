@@ -1,0 +1,19 @@
+{
+  "name": "websocket_server",
+  "version": "0.0.1",
+  "description": "Simple websocket server for Java<->JavaScript live updates",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "websocket_server"
+  },
+  "author": "inao",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.17.1"
+  }
+}
